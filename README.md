@@ -4,7 +4,7 @@ A comprehensive survey analyzing claim verification research, including 316 pape
 
 ## Repository Contents
 
-- **`Survey-Paper-List.xlsx`** - Complete list of 316 papers included in the survey
+- **`survey-paper-list.xlsx`** - Complete list of 316 papers included in the survey
 - **`case-study1/`** - Annotation results for Case Study #1 (Evidence-Bearing Sentences)
 - **`case-study2/`** - Annotation results for Case Study #2 (Claim Decomposition)
 
@@ -60,4 +60,4 @@ If you use this work in your research, please cite our EMNLP 2025 paper:
 
 ## Contact
 
-For questions or to request full annotation data, please contact zhaxizerong@gmail.conm
+For questions or to request full annotation data, please contact zhaxizerong@gmail.com
