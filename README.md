@@ -1,6 +1,6 @@
 # EMNLP 2025 Claim Verification Survey
 
-A comprehensive survey analyzing claim verification research, including 316 papers and two in-depth case studies examining evidence-based verification and claim decomposition strategies.
+A comprehensive survey analyzing claim verification research, including 198 papers (kept after manually screening 316 papers) and two in-depth case studies examining evidence-based verification and claim decomposition strategies.
 
 ## Repository Contents
 
@@ -48,12 +48,12 @@ Examines how **decomposing complex claims into subclaims** influences the accura
 
 ## Citation
 
-If you use this work in your research, please cite our EMNLP 2025 paper:
+If you use this work in your research, please cite our EMNLP 2025 Findings paper:
 ```bibtex
 @inproceedings{yourname2025claimverification,
   title={A Survey of Claim Verification: Corpora, Systems, and Challenges},
   author={Zhaxi Zerong, Chenxi Li, Xinyi Liu, Ju-hui Chen, Fei Xia},
-  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  booktitle={Findings for the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP-2025)},
   year={2025}
 }
 ```
